@@ -3,3 +3,4 @@ Sphinx
 funcparserlib
 sphinxcontrib-seqdiag
 sphinxcontrib-blockdiag
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
